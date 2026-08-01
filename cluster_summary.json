@@ -1,0 +1,117 @@
+{
+  "ari": 0.4765537511086319,
+  "k": 5,
+  "n_docs": 3835,
+  "clusters": {
+    "0": {
+      "size": 630,
+      "top_terms": [
+        "god",
+        "jesus",
+        "christ",
+        "christians",
+        "church",
+        "christian",
+        "people",
+        "bible",
+        "believe",
+        "sin",
+        "faith",
+        "say"
+      ],
+      "examples": [
+        "Someone referred to my FAQ essay on homosexuality.  Since it hasn't been posted for some time (and I've modified it somewhat since the last time), I'm taking this opportunity to post it.  There is another entry in the FAQ containing comments by some other contributors.  They can be retrieved from ftp.rutgers.edu as pub/soc.religion.christ",
+        "I have come across what I consider to be an excellent tract. It is a bit lengthy for a posting, but I thought I'd share it with all of you anyway. Feel free to pass it along to anyone whom you feel might benefit from what it says. May God richly bless those who read it.   ===================================================================",
+        "It troubles me that there have been so many posts recently trying to support the doctrine of Original Sin.  This is primarily a Catholic doctrine, with no other purpose than to defend the idea of infant baptism.  Even among, its supporters, however, people will stop short of saying that unbaptised infants will go to hell.  It's very easy "
+      ]
+    },
+    "1": {
+      "size": 66,
+      "top_terms": [
+        "dsl",
+        "cadre",
+        "chastity",
+        "n3jxp",
+        "shameful",
+        "intellect",
+        "geb",
+        "skepticism",
+        "banks",
+        "surrender",
+        "pitt",
+        "gordon"
+      ],
+      "examples": [
+        "Reflex sympathetic dystrophy.  I'm sure there's an FAQ, as I have made at least 10 answers to questions on it in the last year or so. --  ---------------------------------------------------------------------------- Gordon Banks  N3JXP      | \"Skepticism is the chastity of the intellect, and geb@cadre.dsl.pitt.edu   |  it is shameful to su",
+        "There is eye dominance same as handedness (and usually for the same side).  It has nothing to do with refractive error, however.   --  ---------------------------------------------------------------------------- Gordon Banks  N3JXP      | \"Skepticism is the chastity of the intellect, and geb@cadre.dsl.pitt.edu   |  it is shameful to surre",
+        "I'm not sure it is the fluctuation so much as the estrogen level. Taking Premarin can certainly cause migraines in some women.  --  ---------------------------------------------------------------------------- Gordon Banks  N3JXP      | \"Skepticism is the chastity of the intellect, and geb@cadre.dsl.pitt.edu   |  it is shameful to surrende"
+      ]
+    },
+    "2": {
+      "size": 635,
+      "top_terms": [
+        "mac",
+        "apple",
+        "drive",
+        "monitor",
+        "thanks",
+        "use",
+        "know",
+        "does",
+        "problem",
+        "software",
+        "card",
+        "scsi"
+      ],
+      "examples": [
+        "{Send follow ups to comp.sys.mac.advocacy. Sorry about the header but the  Pnews here does not let one easily change the headers and I gave up after a  year of trying. This sheet is also available by FTP on sumex-aim.stanford.edu  (36.44.0.6) in the info-mac/report as mac-ibm-compare177.txt.} Mac & IBM Info-Version 1.7.7  The reason for t",
+        "Archive-name: macintosh/general-faq Version: 2.1.3 Last-modified:  April 16, 1993  Copyright 1993, Elliotte Harold   Changes:  \t2.1: Where can I FTP Macintosh software?  \t\tI added the ftp site anl.anl.fr.       2.5: What is .bin?  .hqx?  .cpt?  .image? .etc.?      \tDisk Doubler will decode Packit archives.  Binhex 5.0     \twill decode Mac",
+        "Archive-name: typing-injury-faq/keyboards Version: $Revision: 5.11 $ $Date: 1993/04/13 01:20:43 $  -------------------------------------------------------------------------------       Answers To Frequently Asked Questions about Keyboard Alternatives -------------------------------------------------------------------------------  The Alte"
+      ]
+    },
+    "3": {
+      "size": 659,
+      "top_terms": [
+        "game",
+        "team",
+        "hockey",
+        "games",
+        "play",
+        "season",
+        "players",
+        "year",
+        "nhl",
+        "espn",
+        "win",
+        "teams"
+      ],
+      "examples": [
+        "Archive-name: hockey-faq  rec.sport.hockey answers to Frequently Asked Questions and other news:   Contents:  0. New Info. 1. NHL 2. NHL Minor Leagues 3. College Hockey (North America) 4. Other leagues (e.g. Europe, Canada Cup tournament) 5. E-mail files 6. USENET Hockey Pool 7. Up-coming Dates 8. Answers to some frequently asked question",
+        "Wales Conference, Adams Division, Semifinal  I'm hoping for a Fuhr miracle, but I agree that Boston will likely win the series.  Goaltending is about equal, top offensive players are about equal (Mogilny-LaFontaine vs. Oates-Juneau), but Buffalo has no answer to Neely (not to imply that Neely is not a top offensive player btw, in fact he'",
+        "The FLYERS blew a 3-0 lead over the Buffalo Sabres in the second period, but Kevin Dineen's 7th career hat trick powered them to their 7th consecutive win, 7-4 over the Sabres who have now lost 7 in a row. Alexander Mogilny led the comeback scoring his 75th and 76th goals of the season which tied the game at 3 in the 2nd period and 4 in t"
+      ]
+    },
+    "4": {
+      "size": 1845,
+      "top_terms": [
+        "people",
+        "don",
+        "just",
+        "like",
+        "know",
+        "think",
+        "gun",
+        "time",
+        "did",
+        "good",
+        "right",
+        "ve"
+      ],
+      "examples": [
+        "GREAT post Martin.  Very informative, well-balanced, and humanitarian without neglecting the need for scientific rigor.   (Cross-posted to alt.psychology.personality since some personality typing will be discussed at the beginning - Note: I've set all followups to sci.med since most of my comments are more sci.med oriented and I'm sure mo",
+        "Try the firearms archive.  Larry Cipriani's instructions follow.  By the way, thanks for the archive Larry..  This year is the 103rd congress directory.  ---------------------------- From watson!yktnews.watson.ibm.com!newsgate.watson.ibm.com!news.ans.net!howland.r reston.ans.net!bogus.sura.net!darwin.sura.net!dtix.dt.navy.mil!mimsy!cbvox1",
+        "Here is a press release from the White House.   President Clinton's Remarks On Waco With Q/A  To: National Desk  Contact: White House Office of the Press Secretary, 202-456-2100     WASHINGTON, April 20 -- Following are remarks by President  Clinton in a question and answer session with the press:  1:36 P.M. EDT       THE PRESIDENT:  On F"
+      ]
+    }
+  }
+}
