@@ -23,15 +23,14 @@ inr = ["3750.8","3734.1","3708.5","3694.6","3684.3","3675.2","3669.3","3663.6","
 table_png(["k","silhouette (cosine)","inertia"],
           [[str(k), s, i] for k, s, i in zip(ks, sil, inr)],
           "table1_k_selection.png", "Choosing k: silhouette and inertia across k = 2 to 10")
-for (r,) in []: pass
 
 rows = [["comp.sys.mac.hardware","0","0","627","0","85"],
         ["rec.sport.hockey","0","0","1","658","98"],
         ["sci.med","5","66","5","0","715"],
         ["soc.religion.christian","623","0","2","0","243"],
         ["talk.politics.guns","2","0","0","1","704"]]
-fig, ax = plt.subplots(figsize=(9.5, 3.4)); ax.axis("off")
-t = ax.table(cellText=rows, colLabels=["true board","c0","c1","c2","c3","c4"], cellLoc="center", loc="center")
+fig, ax = plt.subplots(figsize=(11.5, 3.4)); ax.axis("off")
+t = ax.table(cellText=rows, colLabels=["true board","c0","c1","c2","c3","c4"], cellLoc="center", loc="center", colWidths=[0.34,0.132,0.132,0.132,0.132,0.132])
 t.auto_set_font_size(False); t.set_fontsize(11); t.scale(1, 1.6)
 big = {(1,3),(2,4),(3,5),(4,1),(5,5)}
 for (r,c), cell in t.get_celld().items():
